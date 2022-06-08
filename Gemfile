@@ -5,4 +5,4 @@ gem "cocoapods"
 
 gem "jazzy", "~> 0.13.6"
 
-gem "xcode-install", "~> 2.6"
+gem "xcode-install", "~> 2.6", ">= 2.6.8"
